@@ -1,5 +1,7 @@
 # Welcome to my repositories #
-* There is the place where I'm going to add new Repository that I've learned
+**This is the place where I'm going to add new repositories that I've learned.**
 
-  # Repositories #
-  * 👇🏻
+# Repositories #
+
+### calculator.cpp ###
+**This is the first repo I've made, which is a sample calculator.**
