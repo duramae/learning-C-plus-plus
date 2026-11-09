@@ -47,7 +47,7 @@ case 3: cout<<"Enter how much you want to withdraw: ";
         }
         break;
         
-case 4:cout<<"Thank you for your business. Have a good day"; break;
+case 4:cout<<"Thank you for your business. Have a good day!"; break;
       default: cout<<"The operation has failed\n"; break;
   }
   }while(C<4 || C>4);
