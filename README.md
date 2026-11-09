@@ -3,5 +3,6 @@
 
 # Repositories #
 
-### calculator.cpp ###
+### [calculator.cpp](./calculator.cpp)
+###
 **This is the first repo I've made, which is a sample calculator.**
