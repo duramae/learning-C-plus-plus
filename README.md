@@ -4,7 +4,8 @@
 # Repositories #
 
 ### calculator [📎](./calculator.cpp) ###
-**This is the first repo I've made, which is a sample calculator.**
+**This is the first project I've made, which is a sample calculator.**
 
 ### ATM [🏧](./ATM.cpp) ###
-**This is the second repo I've made, wich is an ATM system**
+**This is the second project I've made, which is an ATM system.**
+
