@@ -4,8 +4,11 @@
 # Repositories #
 
 ### calculator [📎](./calculator.cpp) ###
-**This is the first project I've ever made, which is a simple calculator.**
+**This is the first project I've ever created, which is a simple calculator.**
 
 ### ATM [🏧](./ATM.cpp) ###
-**This is the second project I've made, which is an ATM system.**
+**This is the second project I've created, which is an ATM system.**
 
+### Number Guessing Game ##
+**This is one of the projects I've created.**
+[Here](./Number_Guessing_Game.cpp)
