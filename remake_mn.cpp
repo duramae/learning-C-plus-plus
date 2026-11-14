@@ -1,19 +1,25 @@
 #include <iostream>
 using namespace std;
 
+void inst();
 
-
+void find(double x, double k, double l);
 
 int main() {
 
-	int x;
-	int k;
-	int l;
+	double x,k,l;
 
-	cout<<"Enter three number:\n";
+	inst();
 	cin>>x;
 	cin>>k;
 	cin>>l;
+	find(x,k,l);
+
+	return 0;
+}
+
+void find(double x, double k, double l)
+{
 
 	if(x>k && x>l) cout<<"The maximum number is "<<x;
 
@@ -22,6 +28,9 @@ int main() {
 	else if(l>x && l>k) cout<<"The maximum number is "<<l;
 
 	else cout<<"The numbers are equal";
+}
 
-	return 0;
+void inst()
+{
+	cout<<"Enter three numbers:\n";
 }
